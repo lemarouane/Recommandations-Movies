@@ -6,5 +6,5 @@ After you install the requirements suchh as numpy .. pandas and streamlit you wi
 
 finally run the streamlit file by streamlit run app.py
 
- 
+  
  
